@@ -1,6 +1,6 @@
 # Pair-Matching-Memory-Game
 
-## <b> [Click here to Play the GAME!!](https://vectorstatic.github.io/Memory-Matching-Game/)
+## <b> [Click here to Play the GAME!!](https://raghuwanshiayush2004.github.io/Pair-Matching-Memory-Game/)
 
 
 This project is made using HTML,CSS &amp; JavaScript.
