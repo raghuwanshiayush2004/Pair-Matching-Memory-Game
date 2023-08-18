@@ -3,11 +3,11 @@
 ## <b> [Click here to Play the GAME!!](https://raghuwanshiayush2004.github.io/Pair-Matching-Memory-Game/)
 
 
-This project is made using HTML,CSS &amp; JavaScript.
+TThis project is crafted using a combination of HTML, CSS, and JavaScript.
 
-It's a simple online memory matching game, which contains various levels.
+It's an uncomplicated web-based memory matching game, designed with HTML, CSS, and JavaScript. The game features multiple levels for added excitement.
 <br>
-Here are some snapshots from game.
+Here are a few visual glimpses extracted from the game.
 
 <img src="snapshot1.png" width=95% alt="snapshots">
 <img src="snapshot2.png" width=95% alt="snapshots">
